@@ -24,6 +24,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    streamlit run calculator.py
 
 *Usage*
+
 1:Enter numbers in the input fields.
 
 2:Select the arithmetic operation you want to perform.
