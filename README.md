@@ -18,9 +18,12 @@ To run this project locally, you'll need to have Python and Streamlit installed.
    cd Python-Cal
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   Make sure you have Streamlit installed:
+
+   *Make sure you have Streamlit installed*:
+   
    pip install streamlit
    *Run the Application*
+   
    streamlit run calculator.py
 
 *Usage*
